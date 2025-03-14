@@ -1,0 +1,21 @@
+{
+  "name": "Soul Tokens Mapper",
+  "id": "1481891866898999533",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "documentAccess": "dynamic-page",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html",
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  },
+  "permissions": [
+    "teamlibrary"
+  ]
+}
